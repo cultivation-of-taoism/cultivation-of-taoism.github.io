@@ -1,4 +1,4 @@
-## 应用分发
+## 应用下载
 
 You can use the [editor on GitHub](https://github.com/cultivation-of-taoism/cultivation-of-taoism.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
